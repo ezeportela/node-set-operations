@@ -1,0 +1,10 @@
+{
+  "inputs": [
+    "./input/customers.csv",
+    "./input/filters.csv"
+  ],
+  "delimiter": ";",
+  "output": "./output/date - customers.csv",
+  "type": "eq",
+  "column": "DNI"
+}
